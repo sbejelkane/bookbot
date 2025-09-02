@@ -1,2 +1,3 @@
 # bookbot
-Python app to analyze novels and print the word and character usage.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
